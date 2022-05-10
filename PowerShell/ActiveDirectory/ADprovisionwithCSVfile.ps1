@@ -1,7 +1,6 @@
 ﻿#####################################################################
-# Nom : [LPASSR]_OZDEMIR-Ismail_Rendu_Powershell_Active_Directory.ps1
+# Nom : ADprovisionwithCSVfile.ps1
 # Version : 1.0
-# Cree par: OZDEMIR Ismail
 # Date de création : le 21/03/2022
 # Date de modification : Aucun
 # Modification par : Aucun
