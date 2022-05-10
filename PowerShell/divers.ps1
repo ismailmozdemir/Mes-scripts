@@ -2,8 +2,6 @@
 #  Nom     : divers.ps1
 #  Version : 1.0
 #  Date de création : le 07/02/2022
-#  Date de modification : Aucun
-#  Modification par : Aucun
 #  Description : TP Powershell SEREW
 #####################################################################
 
