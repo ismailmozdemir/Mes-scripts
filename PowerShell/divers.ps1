@@ -1,7 +1,6 @@
 ﻿#####################################################################
-#  Nom     : [LPASSR]_OZDEMIR-Ismail_Rendu_Powershell.ps1
+#  Nom     : divers.ps1
 #  Version : 1.0
-#  Cree par: OZDEMIR Ismail
 #  Date de création : le 07/02/2022
 #  Date de modification : Aucun
 #  Modification par : Aucun
